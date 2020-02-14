@@ -8,21 +8,21 @@ Todos os comandos abaixo são executados no diretório de cada camada, utilizand
 ### Back-end
 
 Para iniciar o back-end, entre no diretório "backend" e execute o comando:
-...
+```
 yarn dev
-...
+```
 
 ### Front-end
 Para executar o frontend, entre no diretório "frontend" e execute o comando:
-...
+```
 yarn start
-...
+```
 
 ### Mobile
 Para executar o mobile, entre no diretório "tindev" e execute o comando:
-...
+```
 yarn start
-...
+```
 
 #### Observações:
 
